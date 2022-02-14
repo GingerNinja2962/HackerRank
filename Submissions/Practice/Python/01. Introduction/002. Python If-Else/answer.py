@@ -1,6 +1,7 @@
 #!/bin/python3
 
 # https://www.hackerrank.com/challenges/py-if-else/problem
+# Difficulty = Easy
 # Score = 10
 
 import math
